@@ -1,0 +1,2 @@
+C:\Users\bossa\Documents\GitHub\asp.net-intro\demo-website\demo-website\obj\Debug\demo-website.csprojAssemblyReference.cache
+C:\Users\bossa\Documents\GitHub\asp.net-intro\demo-website\demo-website\obj\Debug\demo-website.csproj.CoreCompileInputs.cache
